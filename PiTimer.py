@@ -16,8 +16,9 @@ import UserInterface
 #/**************************/
 #/* Application constants. */
 #/**************************/
-GPIO_PINS = [ 5, 6, 13, 19, 26, 21, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
-MAX_RELAYS = 20
+
+GPIO_PINS = [ 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 0 ]
+MAX_RELAYS = 11
 KEY_ESC = 27
 MAIN_LOOP_PERIOD = 250
 CHECK_SCHEDULE_COUNT = 4
