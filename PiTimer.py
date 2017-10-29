@@ -51,7 +51,7 @@ time.sleep(1)
 # /* ensure the system time is correct at the start.                 */
 #/*******************************************************************/
 # BOOKMARK: THIS IS A PLACEHOLDER FOR WHEN THE CLOCK MODLUE IS IMPLEMENTED.
-#ThisSystemTime.SetSystemTime("2015-06-18 19:40:00")
+ThisSystemTime.SetSystemTime("2015-06-18 19:40:00")
 
 #    /*********************************************************/
 #   /* Create an initial state for each realy in the system. */

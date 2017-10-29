@@ -30,8 +30,8 @@ import SystemTime
 
 
 # Constants to define relay state.
-RELAY_OFF = 0
-RELAY_ON = 1
+RELAY_OFF = 1
+RELAY_ON = 0
 
 
 class Relays:
